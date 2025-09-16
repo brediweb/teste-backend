@@ -287,4 +287,8 @@ Inclua no README.md:
 - Criar documentação da API
 - Adicionar logs de requisições
 
+## Conclusão
+
+- Após finalizar nos envie o link do seu repositório para o e-mail contato@bredi.com.br juntamente com seu nome, não esqueca de deixar o repositório público.
+
 Boa sorte com o desenvolvimento! 🚀
